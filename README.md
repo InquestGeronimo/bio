@@ -1,10 +1,21 @@
-🤗 [Hugging Face Profile](https://huggingface.co/zeroshot)
+🤗 [Hugging Face Profile](https://huggingface.co/zeroshot) includes full list of models and datasets
 
 # CODE
 
 
 # MODELS
 
+[bge-small-en-v1.5-quant](https://huggingface.co/neuralmagic/bge-small-en-v1.5-quant)
+
+[bge-base-en-v1.5-quant](https://huggingface.co/neuralmagic/bge-base-en-v1.5-quant)
+
+[bge-large-en-v1.5-quant](https://huggingface.co/neuralmagic/bge-large-en-v1.5-quant)
+
+[bge-small-en-v1.5-sparse](https://huggingface.co/neuralmagic/bge-small-en-v1.5-sparse)
+
+[bge-base-en-v1.5-sparse](https://huggingface.co/neuralmagic/bge-base-en-v1.5-sparse)
+
+[bge-large-en-v1.5-sparse](https://huggingface.co/neuralmagic/bge-large-en-v1.5-sparse)
 
 # DATASETS
 
@@ -12,7 +23,7 @@
 
 [Twitter Financial News Topic Dataset](https://huggingface.co/datasets/zeroshot/twitter-financial-news-topic)
 
-+ More
+[Bio Arxiv](https://huggingface.co/datasets/zeroshot/arxiv-biology)
 
 # BLOGS
 [OpenAI integration](https://neuralmagic.com/blog/integrating-deepsparse-with-openais-api-for-fast-local-llms/)
