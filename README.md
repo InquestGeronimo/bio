@@ -67,6 +67,8 @@
 
 [Sparse Transfer NLP Models from Hugging Face Using SparseML!](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqblg0YjlGNUFwZ1pRRzJhd0RwWndQRWV4ZUF2Z3xBQ3Jtc0trV21HVkhwZjNxQlMtY2xjVHRrMG9obzlybXFnNlNFQnJBeUlqZVR0WWY0aFp4YkczeEU5VnJ5Vzc5YVk1THBobjkxTlNLSDdhTHJhYkxvSENHWjNmYmptZlZnclRUS3M4T2NtZjVKclYtVjhBY0Z0TQ&q=https%3A%2F%2Fcolab.research.google.com%2Fdrive%2F1I5ez6ZpdT0K-yo7l9AXrrJ7tIFoEP8Jv&v=ltdKqiB7FFU)
 
+[Optimum Deepsparse Pipelines](https://github.com/neuralmagic/examples/blob/main/notebooks/optimum-export/optimum-pipelines.ipynb)
+
 # VIDEOS
 
 [Sparse Transferring Hugging Face Models With SparseML](https://www.youtube.com/watch?v=ltdKqiB7FFU)
