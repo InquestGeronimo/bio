@@ -4,19 +4,12 @@
 
 # CODE
 
-## 🧑‍💻 Demos
-
 | Example     |      Description      |
 |----------|-------------|
 | [Benchmark UI](https://github.com/neuralmagic/deepsparse/tree/main/examples/benchmark-ui/)  | How to deploy a gradio UI for benchmarking SparseZoo models on a DigitalOcean instance or local machine.  |
 | [ChatGPT Cheat Sheet](https://github.com/neuralmagic/deepsparse/tree/main/examples/chatgpt-cheat-sheet/)  | User guide for prompting ChatGPT segmented by use-case.  |
 | [SparseServer.UI](https://github.com/neuralmagic/deepsparse/tree/main/examples/sparseserver-ui/)  | A Streamlit app for deploying the DeepSparse Server to compare the latency and accuracy of sparse BERT models. |
 | [Hacker News Python Client](https://github.com/InquestGeronimo/hacker-news-client) | A simple Python client to interact with the official Hacker News Firebase API. |
-
-## ☁️ Cloud 
-
-| Example     |      Description      |
-|----------|-------------|
 | [AWS Sagemaker Integration](https://github.com/neuralmagic/deepsparse/tree/main/examples/aws-sagemaker/)  | How to deploy a DeepSparse inference server on SageMaker. |
 | [AWS Serverless Integration](https://github.com/neuralmagic/deepsparse/tree/main/examples/aws-serverless/)  | How to deploy a DeepSparse pipeline for batch or real-time inference on select serverless services. |
 | [Google Cloud Run](https://github.com/neuralmagic/deepsparse/tree/main/examples/google-cloud-run/) | How to deploy the DeepSparse Server on Cloud Run. |
