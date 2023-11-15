@@ -4,8 +4,6 @@
 
 # CODE
 
-### Demos
-
 ## 🧑‍💻 Demos
 
 | Example     |      Description      |
@@ -18,14 +16,14 @@
 
 | Example     |      Description      |
 |----------|-------------|
-| [AWS Marketplace](https://github.com/neuralmagic/deepsparse/tree/main/examples/aws-marketplace/)  | How to launch a DeepSparse integrated instance via the AWS Marketplace. |
 | [AWS Sagemaker Integration](https://github.com/neuralmagic/deepsparse/tree/main/examples/aws-sagemaker/)  | How to deploy a DeepSparse inference server on SageMaker. |
 | [AWS Serverless Integration](https://github.com/neuralmagic/deepsparse/tree/main/examples/aws-serverless/)  | How to deploy a DeepSparse pipeline for batch or real-time inference on select serverless services. |
-| [Azure VM](https://github.com/neuralmagic/deepsparse/tree/main/examples/azure-vm/)  | How to launch a DeepSparse image in an Azure virtual machine. |
-| [DigitalOcean Marketplace](https://github.com/neuralmagic/deepsparse/tree/main/examples/do-marketplace/)  | How to launch a DeepSparse integrated instance via the DigitalOcean Marketplace. |
-| [GCP Marketplace](https://github.com/neuralmagic/deepsparse/tree/main/examples/gcp-marketplace/) | How to launch a DeepSparse integrated instance on the Google Cloud Marketplace. |
 | [Google Cloud Run](https://github.com/neuralmagic/deepsparse/tree/main/examples/google-cloud-run/) | How to deploy the DeepSparse Server on Cloud Run. |
 | [Run DeepSparse on Amazon EKS Clusters Using the do-framework](https://github.com/neuralmagic/aws-do-eks) | Deploying an inference engine on EKS Cluster |
+| [AWS Marketplace](https://github.com/neuralmagic/deepsparse/tree/main/examples/aws-marketplace/)  | How to launch a DeepSparse integrated instance via the AWS Marketplace. |
+| [DigitalOcean Marketplace](https://github.com/neuralmagic/deepsparse/tree/main/examples/do-marketplace/)  | How to launch a DeepSparse integrated instance via the DigitalOcean Marketplace. |
+| [GCP Marketplace](https://github.com/neuralmagic/deepsparse/tree/main/examples/gcp-marketplace/) | How to launch a DeepSparse integrated instance on the Google Cloud Marketplace. |
+| [Azure VM](https://github.com/neuralmagic/deepsparse/tree/main/examples/azure-vm/)  | How to launch a DeepSparse image in an Azure virtual machine. |
 
 # MODELS
 [bge-small-en-v1.5-quant](https://huggingface.co/neuralmagic/bge-small-en-v1.5-quant)
