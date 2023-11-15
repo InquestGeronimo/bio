@@ -4,6 +4,28 @@
 
 # CODE
 
+### Demos
+
+## 🧑‍💻 Demos
+
+| Example     |      Description      |
+|----------|-------------|
+| [Benchmark UI](https://github.com/neuralmagic/deepsparse/tree/main/examples/benchmark-ui/)  | How to deploy a gradio UI for benchmarking SparseZoo models on a DigitalOcean instance or local machine.  |
+| [ChatGPT Cheat Sheet](https://github.com/neuralmagic/deepsparse/tree/main/examples/chatgpt-cheat-sheet/)  | User guide for prompting ChatGPT segmented by use-case.  |
+| [SparseServer.UI](https://github.com/neuralmagic/deepsparse/tree/main/examples/sparseserver-ui/)  | A Streamlit app for deploying the DeepSparse Server to compare the latency and accuracy of sparse BERT models. |
+
+## ☁️ Cloud 
+
+| Example     |      Description      |
+|----------|-------------|
+| [AWS Marketplace](https://github.com/neuralmagic/deepsparse/tree/main/examples/aws-marketplace/)  | How to launch a DeepSparse integrated instance via the AWS Marketplace. |
+| [AWS Sagemaker Integration](https://github.com/neuralmagic/deepsparse/tree/main/examples/aws-sagemaker/)  | How to deploy a DeepSparse inference server on SageMaker. |
+| [AWS Serverless Integration](https://github.com/neuralmagic/deepsparse/tree/main/examples/aws-serverless/)  | How to deploy a DeepSparse pipeline for batch or real-time inference on select serverless services. |
+| [Azure VM](https://github.com/neuralmagic/deepsparse/tree/main/examples/azure-vm/)  | How to launch a DeepSparse image in an Azure virtual machine. |
+| [DigitalOcean Marketplace](https://github.com/neuralmagic/deepsparse/tree/main/examples/do-marketplace/)  | How to launch a DeepSparse integrated instance via the DigitalOcean Marketplace. |
+| [GCP Marketplace](https://github.com/neuralmagic/deepsparse/tree/main/examples/gcp-marketplace/) | How to launch a DeepSparse integrated instance on the Google Cloud Marketplace. |
+| [Google Cloud Run](https://github.com/neuralmagic/deepsparse/tree/main/examples/google-cloud-run/) | How to deploy the DeepSparse Server on Cloud Run. |
+| [Run DeepSparse on Amazon EKS Clusters Using the do-framework](https://github.com/neuralmagic/aws-do-eks) | Deploying an inference engine on EKS Cluster |
 
 # MODELS
 [bge-small-en-v1.5-quant](https://huggingface.co/neuralmagic/bge-small-en-v1.5-quant)
