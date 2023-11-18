@@ -1,6 +1,6 @@
-[Hugging Face 🤗 Profile](https://huggingface.co/zeroshot) includes full list of models and datasets.
+[Hugging Face 🤗 Profile](https://huggingface.co/zeroshot): includes full list of models and datasets.
 
-[NLP Index](https://index.quantumstat.com/): My public search engine for searching top GitHub repos and Arxiv papers in NLP.
+[NLP Index](https://index.quantumstat.com/): public search engine for searching top GitHub repos and Arxiv papers in NLP.
 
 # CODE
 
