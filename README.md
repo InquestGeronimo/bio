@@ -6,7 +6,7 @@
 
 | Example     |      Description      |
 |----------|-------------|
-| [WhisperYT](https://github.com/InquestGeronimo/whisperyt) | Python client for Gladia's ASR API for YouTube transcription. |
+| [WhisperYT](https://github.com/InquestGeronimo/whisperyt) | Python client for Gladia's ASR API for YouTube transcription using Whisper. |
 | [Benchmark UI](https://github.com/neuralmagic/deepsparse/tree/main/examples/benchmark-ui/)  | How to deploy a gradio UI for benchmarking SparseZoo models on a DigitalOcean instance or local machine.  |
 | [ChatGPT Cheat Sheet](https://github.com/neuralmagic/deepsparse/tree/main/examples/chatgpt-cheat-sheet/)  | User guide for prompting ChatGPT segmented by use-case.  |
 | [SparseServer.UI](https://github.com/neuralmagic/deepsparse/tree/main/examples/sparseserver-ui/)  | A Streamlit app for deploying the DeepSparse Server to compare the latency and accuracy of sparse BERT models. |
