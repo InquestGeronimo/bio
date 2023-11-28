@@ -10,11 +10,11 @@
 | [Hacker News Python Client](https://github.com/InquestGeronimo/hacker-news-client) | A simple Python client to interact with the official Hacker News Firebase API. |
 | [AWS Sagemaker Integration](https://github.com/neuralmagic/deepsparse/tree/main/examples/aws-sagemaker/)  | How to deploy a DeepSparse inference server on SageMaker. |
 | [AWS Serverless Integration](https://github.com/neuralmagic/deepsparse/tree/main/examples/aws-serverless/)  | How to deploy a DeepSparse pipeline for batch or real-time inference on select serverless services. |
-| [Run DeepSparse on Amazon EKS Clusters Using the do-framework](https://github.com/neuralmagic/aws-do-eks) | Deploying an inference engine on EKS Cluster |
-| [Benchmark UI](https://github.com/neuralmagic/deepsparse/tree/main/examples/benchmark-ui/)  | How to deploy a gradio UI for benchmarking SparseZoo models on a DigitalOcean instance or local machine.  |
+| [Amazon EKS Cluster Integration Using the do-framework](https://github.com/neuralmagic/aws-do-eks) | Deploying an inference engine on EKS Cluster |
+| [Benchmark UI - DigitalOcean Deployment](https://github.com/neuralmagic/deepsparse/tree/main/examples/benchmark-ui/)  | How to deploy a gradio UI for benchmarking SparseZoo models on a DigitalOcean instance or local machine.  |
 | [ChatGPT Cheat Sheet](https://github.com/neuralmagic/deepsparse/tree/main/examples/chatgpt-cheat-sheet/)  | User guide for prompting ChatGPT segmented by use-case.  |
 | [SparseServer.UI](https://github.com/neuralmagic/deepsparse/tree/main/examples/sparseserver-ui/)  | A Streamlit app for deploying the DeepSparse Server to compare the latency and accuracy of sparse BERT models. |
-| [Google Cloud Run](https://github.com/neuralmagic/deepsparse/tree/main/examples/google-cloud-run/) | How to deploy the DeepSparse Server on Cloud Run. |
+| [Google Cloud Run Integration](https://github.com/neuralmagic/deepsparse/tree/main/examples/google-cloud-run/) | How to deploy the DeepSparse Server on Cloud Run. |
 | [AWS Marketplace](https://github.com/neuralmagic/deepsparse/tree/main/examples/aws-marketplace/)  | How to launch a DeepSparse integrated instance via the AWS Marketplace. |
 | [DigitalOcean Marketplace](https://github.com/neuralmagic/deepsparse/tree/main/examples/do-marketplace/)  | How to launch a DeepSparse integrated instance via the DigitalOcean Marketplace. |
 | [GCP Marketplace](https://github.com/neuralmagic/deepsparse/tree/main/examples/gcp-marketplace/) | How to launch a DeepSparse integrated instance on the Google Cloud Marketplace. |
