@@ -6,6 +6,7 @@
 
 | Example     |      Description      |
 |----------|-------------|
+| [Horizon Takeoff - LLMs in the cloud](https://github.com/InquestGeronimo/horizon-takeoff) | Python library for automating the deployment of TitanML's Takeoff Server for LLM inference on AWS. |
 | [WhisperYT](https://github.com/InquestGeronimo/whisperyt) | Python client for Gladia's ASR API for YouTube transcription using Whisper. |
 | [Hacker News Python Client](https://github.com/InquestGeronimo/hacker-news-client) | A simple Python client to interact with the official Hacker News Firebase API. |
 | [AWS Sagemaker Integration](https://github.com/neuralmagic/deepsparse/tree/main/examples/aws-sagemaker/)  | How to deploy a DeepSparse inference server on SageMaker. |
