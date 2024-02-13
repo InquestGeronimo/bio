@@ -6,7 +6,7 @@
 
 | Example     |      Description      |
 |----------|-------------|
-| [CypherTune]([https://github.com/InquestGeronimo/horizon-takeoff](https://github.com/InquestGeronimo/cyphertune)) | A simple LLM fine-tuning library for the text-2-Cypher task. |
+| [CypherTune]([https://github.com/InquestGeronimo/horizon-takeoff](https://github.com/InquestGeronimo/cyphertune) | A simple LLM fine-tuning library for the text-2-Cypher task. |
 | [Horizon Takeoff](https://github.com/InquestGeronimo/horizon-takeoff) | Library for automating the deployment of TitanML's Takeoff Server for LLM inference on AWS. |
 | [WhisperYT](https://github.com/InquestGeronimo/whisperyt) | Python client for Gladia's ASR API for YouTube transcription using Whisper. |
 | [Hacker News Python Client](https://github.com/InquestGeronimo/hacker-news-client) | A simple Python client to interact with the official Hacker News Firebase API. |
