@@ -6,7 +6,7 @@
 
 | Example     |      Description      |
 |----------|-------------|
-| [SuperLaser](https://github.com/InquestGeronimo/superlaser) | An MLOps library for LLM deployment w/ the vLLM engine on RunPod's pod and serverless infra. |
+| [SuperLaser](https://github.com/InquestGeronimo/superlaser) | An MLOps library for LLM deployment w/ the vLLM engine on RunPod's serverless infra. |
 | [CypherTune](https://github.com/InquestGeronimo/cyphertune) | A simple LLM fine-tuning library for the text-2-Cypher task. |
 | [Horizon Takeoff](https://github.com/InquestGeronimo/horizon-takeoff) | Library for automating the deployment of TitanML's Takeoff Server for LLM inference on AWS. |
 | [WhisperYT](https://github.com/InquestGeronimo/whisperyt) | Python client for Gladia's ASR API for YouTube transcription using Whisper. |
